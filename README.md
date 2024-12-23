@@ -1,2 +1,2 @@
 # backgrounds
- fond d'écran humour pour les utilisateurs de PluXml :)
+ Un fond d'écran humouristique pour les passionnés de PluXml :)
